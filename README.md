@@ -1,5 +1,7 @@
 # 🌟 MOODLE AI ASSISTANT
 
+Status: Still on construction 🚧
+
 **Unlock the full potential of Moodle with AI — right in your browser!** 🚀
 
 ---
